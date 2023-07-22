@@ -1,10 +1,10 @@
-Elden Ring Mod - Bullet Magic
+## Elden Ring Mod - Bullet Magic
 This mod for Elden Ring adds several new abilities to the game which allow players to use powerful and unique bullets. With this mod, you can unleash a variety of abilities that can help you defeat your enemies and emerge victorious in battle.
 
-Installation
+## Installation
 Use an injector which you can generally find on google (an EAC compatible one is needed if you want to bypass it) to inject the dll into the elden ring process. The project also contains code for a kernel mode EAC bypass, but I don't provide any support for it considering it's against the game's EULA.
 
-Abilities
+## Abilities
 Video:
 https://streamable.com/2xy0hk
 Here are the various abilities that this mod adds to the game:
